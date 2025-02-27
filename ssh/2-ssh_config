@@ -1,0 +1,7 @@
+# This configuration uses the RSA key and disables password authentication.
+
+Host 01d0338faf2c.7c3476c2.alu-cod.online
+    User ubuntu
+    IdentityFile ~/.ssh/school
+    PasswordAuthentication no
+
