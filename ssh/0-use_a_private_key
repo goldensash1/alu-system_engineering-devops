@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REMOTE_USER = "ubuntu"
+REMOTE_USER = "3d6b4b1072b3"
 REMOTE_HOST = "3d6b4b1072b3.7d5f7213.alu-cod.online"
 SSH_KEY ="~/.ssh/school"
 
